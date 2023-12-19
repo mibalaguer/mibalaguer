@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Miguel an Artificial Intelligence Engineer  👋
 
 <!--
 **mibalaguer/mibalaguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![AIE](https://github.com/mibalaguer/mibalaguer/assets/90922057/392bee08-302d-44d9-8969-11d28b8d602d)
